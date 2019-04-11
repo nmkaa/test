@@ -1,0 +1,5 @@
+
+FOR ADMIN'S LOGIN
+
+  username = nmk
+  password = password
